@@ -19,3 +19,9 @@ can be applied in various fields to improve data retrieval, enhance user interac
 generate content, and facilitate scientific research. The system also stands out for its
 flexibility in usage and the capability to integrate with social media platforms, enabling
 seamless integration with different applications to provide an improved user experience.
+
+
+You can get the book from this link:
+https://drive.google.com/file/d/1FYKhEq9sgFCOjGxb169VkcOS-JEWKdrh/view?usp=sharing
+
+In the future, I am planning to find a way to make a suitable for any pdf file.
