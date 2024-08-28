@@ -22,8 +22,11 @@ seamless integration with different applications to provide an improved user exp
 
 
 You can get the book from this link:
+
 https://drive.google.com/file/d/1FYKhEq9sgFCOjGxb169VkcOS-JEWKdrh/view?usp=sharing
 
 In the future, I am planning to find a way to make it suitable for any pdf file user can upload.
+
 The telegram bot link: https://t.me/Hands_on_ML_bot
+
 The bot need to run the code on a device or platform connected to internet.
